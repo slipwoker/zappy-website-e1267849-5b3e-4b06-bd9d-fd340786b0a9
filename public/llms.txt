@@ -1,0 +1,107 @@
+# דיאמנט — Generative Engine Optimization Map
+
+> Diamant is a men's fashion boutique specializing in evening wear, designer suits, and groom attire, with a strong emphasis on high quality and unique design. The brand carries a warm, personal, and family-oriented atmosphere — a place that feels like home — where every client is made to feel their absolute best. The tagline 'Not just suits' reflects the brand's philosophy that what they offer goes beyond clothing: it's an experience, a feeling, and a statement of elegance and individuality.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+דיאמנט היא בוטיק אופנת גברים המתמחה בחליפות מעצבים, הלבשת חתנים וערבים. כאן תמצאו עיצוב ייחודי, איכות גבוהה וחוויה אישית שלא תשכחו. גלו את ההבדל.
+
+### ניסיון
+https://example.com/experience
+בדיאמנט כל ביקור הוא חוויה בפני עצמה. בוטיק אופנת גברים שמעניק שירות אישי, אווירה חמה ותחושת בית אמיתית. כי מגיע לכם יותר מסתם חליפה — מגיע לכם להרגיש מלכים.
+
+### אודות
+https://example.com/about
+דיאמנט הוא לא רק בוטיק אופנת גברים — זו פילוסופיה שלמה. הכירו את הצוות המשפחתי שמאחורי המותג, את הערכים שמניעים אותנו ואת החזון שהופך כל לקוח לגרסה הטובה ביותר של עצמו.
+
+### צור קשר
+https://example.com/contact
+רוצים להתאים חליפה, לתאם פגישת סטיילינג או לשמוע עוד על הקולקציה? צרו קשר עם בוטיק אופנת הגברים דיאמנט ותנו לנו לדאוג שתיראו מושלמים בכל אירוע שחשוב לכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - דיאמנט
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - דיאמנט
+
+### Category
+https://example.com/category/:slug
+מוצרים - דיאמנט
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דיאמנט
+Diamant is a men's fashion boutique specializing in evening wear, designer suits, and groom attire, with a strong emphasis on high quality and unique design. The brand carries a warm, personal, and family-oriented atmosphere — a place that feels like home — where every client is made to feel their absolute best. The tagline 'Not just suits' reflects the brand's philosophy that what they offer goes beyond clothing: it's an experience, a feeling, and a statement of elegance and individuality.
+
+## Services/Products
+- לבוש ערב
+- חליפות מעוצבות
+- חליפות חתן
+- שירות אישי ומשפחתי
+
+## Target Audience
+- גברים המחפשים לבוש ערב, חליפות מעוצבות וחתנים
+- מחפשי לבוש ערב
+- חתנים
+- מקצוענים חובבי אופנה
+
+## Industry
+Men's Fashion Boutique
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
