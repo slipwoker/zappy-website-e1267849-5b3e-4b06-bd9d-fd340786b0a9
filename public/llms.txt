@@ -72,7 +72,26 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 3**
+
+### ג'קט ג'ינס שחור 
+https://example.com/product/gkt-gyns-shchvr-r53cml
+- Price: 199.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-1779693395831-i9rk1k.webp
+
+### טי שירט לבנה קטיפה
+https://example.com/product/ty-shyrt-lbnh-ktyph-iku1ea
+- Price: 99.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-1779693278864-td6fmb.webp
+
+### מכופתרת דיאמנט בז' 
+https://example.com/product/mkvptrt-dyamnt-bz-9j3leh
+- Price: 149.00 ILS
+- Availability: In stock
+- Description: מכופתרת ארוכה בז'
+- Image: https://example.com/assets/product-1779693041002-h0m7dj.webp
 
 ---
 

@@ -6021,3 +6021,26 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ---
 
+## Product Catalog
+
+### ג'קט ג'ינס שחור 
+URL: https://example.com/product/gkt-gyns-shchvr-r53cml
+Price: 199.00 ILS
+Availability: In stock
+
+---
+
+### טי שירט לבנה קטיפה
+URL: https://example.com/product/ty-shyrt-lbnh-ktyph-iku1ea
+Price: 99.00 ILS
+Availability: In stock
+
+---
+
+### מכופתרת דיאמנט בז' 
+URL: https://example.com/product/mkvptrt-dyamnt-bz-9j3leh
+Price: 149.00 ILS
+Availability: In stock
+
+---
+

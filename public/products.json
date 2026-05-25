@@ -1,8 +1,75 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-24T18:59:47.927Z",
+  "generated_at": "2026-05-25T07:30:54.067Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 3,
+  "products": [
+    {
+      "id": "6f67d7dc-2907-4255-84d1-07f9c85a29db",
+      "slug": "gkt-gyns-shchvr-r53cml",
+      "name": "ג'קט ג'ינס שחור ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 199,
+      "base_price": 199,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1779693395831-i9rk1k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/gkt-gyns-shchvr-r53cml",
+      "categories": [],
+      "updated_at": "2026-05-25T07:17:00.900Z"
+    },
+    {
+      "id": "1f4d33a7-204c-4f3a-a778-ffe81931d280",
+      "slug": "ty-shyrt-lbnh-ktyph-iku1ea",
+      "name": "טי שירט לבנה קטיפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1779693278864-td6fmb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ty-shyrt-lbnh-ktyph-iku1ea",
+      "categories": [],
+      "updated_at": "2026-05-25T07:14:58.346Z"
+    },
+    {
+      "id": "5ca9d0e6-8b9e-49c5-9da8-a3557c44e319",
+      "slug": "mkvptrt-dyamnt-bz-9j3leh",
+      "name": "מכופתרת דיאמנט בז' ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכופתרת ארוכה בז'",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1779693041002-h0m7dj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mkvptrt-dyamnt-bz-9j3leh",
+      "categories": [],
+      "updated_at": "2026-05-25T07:15:08.038Z"
+    }
+  ]
 }
